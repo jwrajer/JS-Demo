@@ -53,3 +53,17 @@ else if(sum1===-1000) {
 else if(sum1===-5) {
   console.log(`${sum1} is a negative number`);
 }
+
+// hello world
+// variables for the numbers/inputs
+// check if each number is >= 5
+// print true/false based on result
+
+const checkNum1 = 0;
+const checkNum2 = 0;
+
+if ((checkNum1 >= 5) && (checkNum2 >= 5)) {
+  console.log(true);
+} else {
+  console.log(false);
+} 
