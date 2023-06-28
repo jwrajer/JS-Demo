@@ -26,3 +26,30 @@ else if (input==="") {
 }
 
 
+//Number Line
+// Determine variables for both numbers to add
+// Add both numbers together
+// Console.log based on end result
+
+const num1 = 50;
+const num2 = 51;
+const sum1 = num1 + num2;
+
+if(sum1===101) {
+  console.log(`${sum1} is greater than 100`);
+}
+else if(sum1===97) {
+  console.log(`${sum1} is greater than 0`);
+}
+else if(sum1===101) {
+  console.log(`${sum1} is greater than 100`);
+}
+else if(sum1===0) {
+  console.log(`${sum1} is equal 0`);
+}
+else if(sum1===-1000) {
+  console.log(`${sum1} is a negative number`);
+}
+else if(sum1===-5) {
+  console.log(`${sum1} is a negative number`);
+}
